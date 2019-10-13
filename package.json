@@ -19,6 +19,6 @@
     "homebridge": ">=0.4.0"
   },
   "dependencies": {
-    "node-switchmate3": ">=0.0.4"
+    "node-switchmate3": "https://github.com/bdjett/node-switchmate3.git"
   }
 }
